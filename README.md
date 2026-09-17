@@ -310,10 +310,3 @@ This project demonstrates practical skills in:
 
 This project demonstrates how raw sales data can be transformed into an **interactive business dashboard using Microsoft Excel**. Power Query was used for data preparation, Power Pivot for data modeling, and DAX for creating analytical measures. Pivot Charts, charts, slicers, and filters were then used to create an interactive reporting experience.
 
----
-
-## 👤 Author
-
-**Rishi Patil**
-
-This project was created as part of a practical **Excel Data Analytics / Business Intelligence portfolio**.
